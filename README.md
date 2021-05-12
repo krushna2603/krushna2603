@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @krushna2603
-- 👀 I’m interested in .automobile & technology 
+- 👋 Hi, I’m Krushnakanth SK
+- 👀 I’m interested in Automobiles & Technology 
 - 🌱 I’m currently learning Coding
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
